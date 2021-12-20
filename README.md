@@ -3,7 +3,7 @@
 Sorulacak sorular;
 - Hangi ülkelerde yayılım , sıcaklık, deniz seviyesi daha fazla
 - Hangi ükelerde bu değerlerin değişimi oranı daha fazla
-- Correlation
+- Correlation  -> (Tamamlandı)
 - Türkiye için kullanılan yakıtlara göre üretilen CO2 oranlarının bar chart ile gösterimi   -> (Tamamlandı) 
 - Ülkelerin sıcaklık artış oranlarının karşılaştırılması
 - Yıllara göre Türkiye'deki sıcaklık değişim grafiği

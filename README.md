@@ -1,8 +1,8 @@
 # ClimateChange
 
 Sorulacak sorular;
-- Hangi ülkelerde yayılım , sıcaklık, deniz seviyesi daha fazla
-- Hangi ükelerde bu değerlerin değişimi oranı daha fazla
+- Hangi ülkelerde yayılım , sıcaklık, deniz seviyesi daha fazla -> ( Co2 Tamamlandı)
+- Hangi ükelerde bu değerlerin değişimi oranı daha fazla -> ( Co2 Tamamlandı)
 - Correlation  -> (Tamamlandı)
 - Türkiye için kullanılan yakıtlara göre üretilen CO2 oranlarının bar chart ile gösterimi   -> (Tamamlandı) 
 - Ülkelerin sıcaklık artış oranlarının karşılaştırılması

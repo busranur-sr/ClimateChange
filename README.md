@@ -13,3 +13,12 @@ Yapmakta olduklarınızın yanına isim yazarsanız aynı şeyleri paralel yapma
 
 [Türkiye için bulduğumuz veri seti ](https://data.tuik.gov.tr/Bulten/Index?p=Sera-Gazi-Emisyon-Istatistikleri-1990-2019-37196) ile ana verisetinden türkiye ile ilgili verileri birleştirdim ama veriler birbiriyle aynı değiller. Sorun olur mu bilemedim
 Toplam Co2 yayılımı iki veri setinde de var ama farklılar napalım?
+
+
+Birleştirilenler
+----------------
+GMSL_25.01
+linear_and_polynom
+sea-temperatures-lin-reg
+seaSurfaceTemperatureRate
+sea-surface-temp-prediction-linear-and-polynom

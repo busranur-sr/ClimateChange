@@ -17,8 +17,8 @@ Toplam Co2 yayılımı iki veri setinde de var ama farklılar napalım?
 
 Birleştirilenler
 ----------------
-GMSL_25.01
-linear_and_polynom
-sea-temperatures-lin-reg
-seaSurfaceTemperatureRate
-sea-surface-temp-prediction-linear-and-polynom
+-GMSL_25.01\n
+-linear_and_polynom\n
+-sea-temperatures-lin-reg\n
+-seaSurfaceTemperatureRate\n
+-sea-surface-temp-prediction-linear-and-polynom\n
